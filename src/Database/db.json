@@ -1,0 +1,23 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Basit",
+            "tech": "BSCS",
+            "city": "Karachi"
+        },
+        {
+            "id": 2,
+            "name": "Hello",
+            "tech": "BSCS",
+            "city": "Karachi"
+        },
+        {
+            "id": 3,
+            "name": "World",
+            "tech": "BSCS",
+            "city": "Karachi"
+        }
+        
+    ]
+}
